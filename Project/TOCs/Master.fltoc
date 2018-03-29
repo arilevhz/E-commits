@@ -2,6 +2,16 @@
 <CatapultToc
   Version="1">
   <TocEntry
-    Title="[%=System.LinkedTitle%]"
-    Link="/Content/Topic2.htm" />
+    Title="Topic One (Main)"
+    Link="/Content/TopicONE.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    ComputeToc="false"
+    ReplaceMergeNode="false" />
+  <TocEntry
+    Title="Book1">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Topic2.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Book2"></TocEntry>
 </CatapultToc>
