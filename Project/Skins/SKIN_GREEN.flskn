@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultSkin
+  Version="1"
+  SkinType="Component"
+  Comment="HTML5 Toolbar skin"
+  ComponentType="TopicToolbar"
+  EnableResponsiveOutput="True"
+  fileTags="File Tags/ari_filetag.Author2"
+  conditions="Default.PrintOnly">
+  <Stylesheet />
+</CatapultSkin>
